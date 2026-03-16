@@ -125,7 +125,7 @@ namespace GameVanilla.Game.Popups
             parentScene.OpenPopup<AlertPopup>("Popups/AlertPopup", popup =>
             {
                 popup.SetTitle("About");
-                popup.SetText("Created by gamevanilla.\n Copyright (C) 2017.");
+                popup.SetText("Created by Teletab.\n Copyright (C) 2026.");
             }, false);
         }
 
