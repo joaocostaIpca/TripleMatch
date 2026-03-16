@@ -40,7 +40,6 @@ namespace GameVanilla.Editor
         {
             tabs.Add(new GameSettingsTab(this));
             tabs.Add(new LevelEditorTab(this));
-            tabs.Add(new AboutTab(this));
             selectedTabIndex = 0;
         }
 
@@ -50,7 +49,7 @@ namespace GameVanilla.Editor
         private void OnGUI()
         {
             selectedTabIndex = GUILayout.Toolbar(selectedTabIndex,
-                new[] {"Game settings", "Level editor", "About"});
+                new[] {"Game settings", "Level editor"});
             if (selectedTabIndex >= 0 && selectedTabIndex < tabs.Count)
             {
                 var selectedEditor = tabs[selectedTabIndex];
