@@ -862,7 +862,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1762963814139474
 GameObject:
   m_ObjectHideFlags: 1
@@ -1857,7 +1857,6 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-  avatarToggleGroup: {fileID: 114595753985604446}
   soundSlider: {fileID: 114909202935720438}
   musicSlider: {fileID: 114453329270166952}
   notificationsToggle: {fileID: 114788188548515330}

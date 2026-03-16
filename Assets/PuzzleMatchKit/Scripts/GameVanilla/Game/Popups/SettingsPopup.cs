@@ -19,9 +19,6 @@ namespace GameVanilla.Game.Popups
     {
 #pragma warning disable 649
         [SerializeField]
-        private ToggleGroup avatarToggleGroup;
-
-        [SerializeField]
         private Slider soundSlider;
 
         [SerializeField]
@@ -40,7 +37,6 @@ namespace GameVanilla.Game.Popups
         private Sprite resetProgressDisabledSprite;
 #pragma warning restore 649
 
-        private int currentAvatar;
         private int currentSound;
         private int currentMusic;
         private int currentNotifications;
@@ -51,7 +47,6 @@ namespace GameVanilla.Game.Popups
         protected override void Awake()
         {
             base.Awake();
-            Assert.IsNotNull(avatarToggleGroup);
             Assert.IsNotNull(soundSlider);
             Assert.IsNotNull(musicSlider);
             Assert.IsNotNull(notificationsToggle);
@@ -66,13 +61,6 @@ namespace GameVanilla.Game.Popups
         protected override void Start()
         {
             base.Start();
-            var avatarSelected = PlayerPrefs.GetInt("avatar_selected");
-            var toggles = avatarToggleGroup.GetComponentsInChildren<Toggle>();
-            for (var i = 0; i < toggles.Length; i++)
-            {
-                toggles[i].isOn = i == avatarSelected;
-            }
-
             soundSlider.value = PlayerPrefs.GetInt("sound_enabled");
             musicSlider.value = PlayerPrefs.GetInt("music_enabled");
             notificationsToggle.isOn = PlayerPrefs.GetInt("notifications_enabled") == 1;
@@ -91,7 +79,6 @@ namespace GameVanilla.Game.Popups
         /// </summary>
         public void OnSaveButtonPressed()
         {
-            PlayerPrefs.SetInt("avatar_selected", currentAvatar);
             PlayerPrefs.SetInt("notifications_enabled", currentNotifications);
             SoundManager.instance.SetSoundEnabled(currentSound == 1);
             SoundManager.instance.SetMusicEnabled(currentMusic == 1);
@@ -140,22 +127,6 @@ namespace GameVanilla.Game.Popups
                 popup.SetTitle("About");
                 popup.SetText("Created by gamevanilla.\n Copyright (C) 2017.");
             }, false);
-        }
-
-        /// <summary>
-        /// Called when the girl avatar is selected.
-        /// </summary>
-        public void OnGirlAvatarSelected()
-        {
-            currentAvatar = 0;
-        }
-
-        /// <summary>
-        /// Called when the boy avatar is selected.
-        /// </summary>
-        public void OnBoyAvatarSelected()
-        {
-            currentAvatar = 1;
         }
 
         /// <summary>
