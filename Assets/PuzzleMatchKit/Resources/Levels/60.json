@@ -1,0 +1,371 @@
+﻿{
+    "id":  60,
+    "width":  8,
+    "height":  8,
+    "tiles":  [
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "Ice",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "Collectable",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "Collectable",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "Collectable",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "GameVanilla.Game.Common.BlockTile"
+                  }
+              ],
+    "limitType":  "Moves",
+    "limit":  25,
+    "penalty":  2,
+    "goals":  [
+                  {
+                      "blockType":  "Block1",
+                      "amount":  20,
+                      "$type":  "GameVanilla.Game.Common.CollectBlockGoal"
+                  },
+                  {
+                      "blockType":  "Block2",
+                      "amount":  23,
+                      "$type":  "GameVanilla.Game.Common.CollectBlockGoal"
+                  },
+                  {
+                      "blockType":  "Collectable",
+                      "amount":  4,
+                      "$type":  "GameVanilla.Game.Common.CollectBlockGoal"
+                  },
+                  {
+                      "blockerType":  "Ice",
+                      "amount":  6,
+                      "$type":  "GameVanilla.Game.Common.CollectBlockerGoal"
+                  }
+              ],
+    "availableColors":  [
+                            "ColorBlock1",
+                            "ColorBlock2",
+                            "ColorBlock3",
+                            "ColorBlock4",
+                            "ColorBlock5"
+                        ],
+    "score1":  6395,
+    "score2":  10232,
+    "score3":  15028,
+    "awardBoostersWithRemainingMoves":  true,
+    "awardedBoosterType":  "VerticalBomb",
+    "collectableChance":  7,
+    "availableBoosters":  {
+                              "HorizontalBomb":  true,
+                              "VerticalBomb":  true,
+                              "Dynamite":  true,
+                              "ColorBomb":  false
+                          }
+}
