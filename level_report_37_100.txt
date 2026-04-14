@@ -1,0 +1,64 @@
+﻿L37: 7x7 | limit=30 | score=2600/4160/6110 | collectChance=3 | seedCollect= | iceTiles=2 | award=HorizontalBomb | boosters=- | goals=Block1:15 | Block2:17
+L38: 7x7 | limit=29 | score=2765/4424/6497 | collectChance=3 | seedCollect= | iceTiles=2 | award=HorizontalBomb | boosters=- | goals=Block1:15 | Block2:17
+L39: 7x7 | limit=29 | score=2930/4688/6885 | collectChance=3 | seedCollect= | iceTiles=2 | award=HorizontalBomb | boosters=- | goals=Block1:15 | Block2:17
+L40: 7x7 | limit=29 | score=3095/4952/7273 | collectChance=3 | seedCollect= | iceTiles=2 | award=HorizontalBomb | boosters=H | goals=Block1:15 | Block2:17
+L41: 7x7 | limit=29 | score=3260/5216/7661 | collectChance=3 | seedCollect= | iceTiles=3 | award=HorizontalBomb | boosters=H | goals=Block1:16 | Block2:18
+L42: 7x7 | limit=29 | score=3425/5480/8048 | collectChance=3 | seedCollect= | iceTiles=3 | award=HorizontalBomb | boosters=H | goals=Block1:16 | Block2:18
+L43: 7x7 | limit=28 | score=3590/5744/8436 | collectChance=4 | seedCollect= | iceTiles=3 | award=HorizontalBomb | boosters=H | goals=Block1:16 | Block2:18
+L44: 7x7 | limit=28 | score=3755/6008/8824 | collectChance=4 | seedCollect= | iceTiles=4 | award=HorizontalBomb | boosters=H | goals=Block1:16 | Block2:19
+L45: 7x7 | limit=28 | score=3920/6272/9212 | collectChance=4 | seedCollect= | iceTiles=4 | award=HorizontalBomb | boosters=HV | goals=Block1:17 | Block2:19 | Collectable:3
+L46: 7x7 | limit=28 | score=4085/6536/9599 | collectChance=4 | seedCollect= | iceTiles=4 | award=HorizontalBomb | boosters=HV | goals=Block1:17 | Block2:19 | Collectable:3
+L47: 7x7 | limit=28 | score=4250/6800/9987 | collectChance=4 | seedCollect= | iceTiles=4 | award=HorizontalBomb | boosters=HV | goals=Block1:17 | Block2:19 | Collectable:3
+L48: 7x7 | limit=27 | score=4415/7064/10375 | collectChance=4 | seedCollect=2 | iceTiles=5 | award=HorizontalBomb | boosters=HV | goals=Block1:17 | Block2:20 | Collectable:3
+L49: 7x7 | limit=27 | score=4580/7328/10763 | collectChance=5 | seedCollect=2 | iceTiles=5 | award=HorizontalBomb | boosters=HV | goals=Block1:18 | Block2:20 | Collectable:3
+L50: 8x8 | limit=24 | score=6500/9800/14500 | collectChance=6 | seedCollect=4 | iceTiles=16 | award=VerticalBomb | boosters=HV | goals=Block1:20 | Block2:22 | Collectable:4 | Ice:14
+L51: 8x8 | limit=27 | score=4910/7856/11538 | collectChance=5 | seedCollect=2 | iceTiles=6 | award=HorizontalBomb | boosters=HV | goals=Block1:18 | Block2:21 | Collectable:3
+L52: 8x8 | limit=27 | score=5075/8120/11926 | collectChance=5 | seedCollect=2 | iceTiles=6 | award=VerticalBomb | boosters=HV | goals=Block1:18 | Block2:21 | Collectable:3
+L53: 8x8 | limit=26 | score=5240/8384/12314 | collectChance=5 | seedCollect=2 | iceTiles=6 | award=VerticalBomb | boosters=HV | goals=Block1:19 | Block2:21 | Collectable:4
+L54: 8x8 | limit=26 | score=5405/8648/12701 | collectChance=5 | seedCollect=2 | iceTiles=6 | award=VerticalBomb | boosters=HV | goals=Block1:19 | Block2:21 | Collectable:4
+L55: 8x8 | limit=26 | score=5570/8912/13089 | collectChance=6 | seedCollect=2 | iceTiles=7 | award=VerticalBomb | boosters=HV | goals=Block1:19 | Block2:22 | Collectable:4 | Ice:5
+L56: 8x8 | limit=26 | score=5735/9176/13477 | collectChance=6 | seedCollect=2 | iceTiles=7 | award=VerticalBomb | boosters=HV | goals=Block1:19 | Block2:22 | Collectable:4 | Ice:5
+L57: 8x8 | limit=26 | score=5900/9440/13865 | collectChance=6 | seedCollect=2 | iceTiles=7 | award=VerticalBomb | boosters=HV | goals=Block1:20 | Block2:22 | Collectable:4 | Ice:5
+L58: 8x8 | limit=26 | score=6065/9704/14252 | collectChance=6 | seedCollect=3 | iceTiles=8 | award=VerticalBomb | boosters=HV | goals=Block1:20 | Block2:23 | Collectable:4 | Ice:6
+L59: 8x8 | limit=25 | score=6230/9968/14640 | collectChance=6 | seedCollect=3 | iceTiles=8 | award=VerticalBomb | boosters=HV | goals=Block1:20 | Block2:23 | Collectable:4 | Ice:6
+L60: 8x8 | limit=25 | score=6395/10232/15028 | collectChance=7 | seedCollect=3 | iceTiles=8 | award=VerticalBomb | boosters=HVD | goals=Block1:20 | Block2:23 | Collectable:4 | Ice:6
+L61: 8x8 | limit=25 | score=6560/10496/15416 | collectChance=7 | seedCollect=3 | iceTiles=8 | award=VerticalBomb | boosters=HVD | goals=Block1:21 | Block2:23 | Collectable:5 | Ice:6
+L62: 8x8 | limit=25 | score=6725/10760/15803 | collectChance=7 | seedCollect=3 | iceTiles=9 | award=VerticalBomb | boosters=HVD | goals=Block1:21 | Block2:24 | Collectable:5 | Ice:6
+L63: 8x8 | limit=25 | score=6890/11024/16191 | collectChance=7 | seedCollect=3 | iceTiles=9 | award=VerticalBomb | boosters=HVD | goals=Block1:21 | Block2:24 | Collectable:5 | Ice:6
+L64: 8x8 | limit=24 | score=7055/11288/16579 | collectChance=7 | seedCollect=3 | iceTiles=9 | award=VerticalBomb | boosters=HVD | goals=Block1:21 | Block2:24 | Collectable:5 | Ice:6
+L65: 8x8 | limit=24 | score=7220/11552/16967 | collectChance=7 | seedCollect=3 | iceTiles=10 | award=VerticalBomb | boosters=HVD | goals=Block1:22 | Block2:25 | Collectable:5 | Ice:7
+L66: 8x8 | limit=24 | score=7385/11816/17354 | collectChance=8 | seedCollect=3 | iceTiles=10 | award=VerticalBomb | boosters=HVD | goals=Block1:22 | Block2:25 | Collectable:5 | Ice:7
+L67: 8x8 | limit=24 | score=7550/12080/17742 | collectChance=8 | seedCollect=3 | iceTiles=10 | award=VerticalBomb | boosters=HVD | goals=Block1:22 | Block2:25 | Collectable:5 | Ice:7
+L68: 8x8 | limit=24 | score=7715/12344/18130 | collectChance=8 | seedCollect=3 | iceTiles=10 | award=VerticalBomb | boosters=HVD | goals=Block1:22 | Block2:25 | Collectable:5 | Ice:7
+L69: 8x8 | limit=23 | score=7880/12608/18518 | collectChance=8 | seedCollect=4 | iceTiles=11 | award=VerticalBomb | boosters=HVD | goals=Block1:23 | Block2:26 | Collectable:6 | Ice:8
+L70: 8x8 | limit=23 | score=8045/12872/18905 | collectChance=8 | seedCollect=4 | iceTiles=11 | award=Dynamite | boosters=HVD | goals=Block1:23 | Block2:26 | Collectable:6 | Ice:8
+L71: 8x8 | limit=23 | score=8210/13136/19293 | collectChance=8 | seedCollect=4 | iceTiles=11 | award=Dynamite | boosters=HVD | goals=Block1:23 | Block2:26 | Collectable:6 | Ice:8
+L72: 8x8 | limit=23 | score=8375/13400/19681 | collectChance=9 | seedCollect=4 | iceTiles=12 | award=Dynamite | boosters=HVD | goals=Block1:23 | Block2:27 | Collectable:6 | Ice:9
+L73: 8x8 | limit=23 | score=8540/13664/20069 | collectChance=9 | seedCollect=4 | iceTiles=12 | award=Dynamite | boosters=HVD | goals=Block1:24 | Block2:27 | Collectable:6 | Ice:9
+L74: 8x8 | limit=22 | score=8705/13928/20456 | collectChance=9 | seedCollect=4 | iceTiles=12 | award=Dynamite | boosters=HVD | goals=Block1:24 | Block2:27 | Collectable:6 | Ice:9
+L75: 9x9 | limit=21 | score=9800/15200/22500 | collectChance=8 | seedCollect=6 | iceTiles=17 | award=Dynamite | boosters=HVD | goals=Block1:24 | Block2:26 | Collectable:6 | Ice:20
+L76: 8x8 | limit=22 | score=9035/14456/21232 | collectChance=9 | seedCollect=4 | iceTiles=13 | award=Dynamite | boosters=HVD | goals=Block1:24 | Block2:28 | Collectable:6 | Ice:9
+L77: 8x8 | limit=22 | score=9200/14720/21620 | collectChance=9 | seedCollect=4 | iceTiles=13 | award=Dynamite | boosters=HVD | goals=Block1:25 | Block2:28 | Collectable:7 | Ice:9
+L78: 8x8 | limit=22 | score=9365/14984/22007 | collectChance=10 | seedCollect=4 | iceTiles=13 | award=Dynamite | boosters=HVDC | goals=Block1:25 | Block2:28 | Collectable:7 | Ice:9
+L79: 8x8 | limit=22 | score=9530/15248/22395 | collectChance=10 | seedCollect=5 | iceTiles=14 | award=Dynamite | boosters=HVDC | goals=Block1:25 | Block2:29 | Collectable:7 | Ice:10
+L80: 8x8 | limit=21 | score=9695/15512/22783 | collectChance=10 | seedCollect=5 | iceTiles=14 | award=Dynamite | boosters=HVDC | goals=Block1:25 | Block2:29 | Collectable:7 | Ice:10
+L81: 9x9 | limit=21 | score=9860/15776/23171 | collectChance=10 | seedCollect=5 | iceTiles=14 | award=Dynamite | boosters=HVDC | goals=Block1:26 | Block2:29 | Collectable:7 | Ice:10
+L82: 9x9 | limit=21 | score=10025/16040/23558 | collectChance=10 | seedCollect=5 | iceTiles=14 | award=Dynamite | boosters=HVDC | goals=Block1:26 | Block2:29 | Collectable:7 | Ice:10
+L83: 9x9 | limit=21 | score=10190/16304/23946 | collectChance=11 | seedCollect=5 | iceTiles=15 | award=Dynamite | boosters=HVDC | goals=Block1:26 | Block2:30 | Collectable:7 | Ice:11
+L84: 9x9 | limit=21 | score=10355/16568/24334 | collectChance=11 | seedCollect=5 | iceTiles=15 | award=Dynamite | boosters=HVDC | goals=Block1:26 | Block2:30 | Collectable:7 | Ice:11
+L85: 9x9 | limit=20 | score=10520/16832/24722 | collectChance=11 | seedCollect=5 | iceTiles=15 | award=Dynamite | boosters=HVDC | goals=Block1:27 | Block2:30 | Collectable:8 | Ice:11
+L86: 9x9 | limit=20 | score=10685/17096/25109 | collectChance=11 | seedCollect=5 | iceTiles=16 | award=Dynamite | boosters=HVDC | goals=Block1:27 | Block2:31 | Collectable:8 | Ice:12
+L87: 9x9 | limit=20 | score=10850/17360/25497 | collectChance=11 | seedCollect=5 | iceTiles=16 | award=Dynamite | boosters=HVDC | goals=Block1:27 | Block2:31 | Collectable:8 | Ice:12
+L88: 9x9 | limit=20 | score=11015/17624/25885 | collectChance=11 | seedCollect=5 | iceTiles=16 | award=Dynamite | boosters=HVDC | goals=Block1:27 | Block2:31 | Collectable:8 | Ice:12
+L89: 9x9 | limit=20 | score=11180/17888/26273 | collectChance=12 | seedCollect=5 | iceTiles=16 | award=Dynamite | boosters=HVDC | goals=Block1:28 | Block2:31 | Collectable:8 | Ice:12
+L90: 9x9 | limit=19 | score=11345/18152/26660 | collectChance=12 | seedCollect=6 | iceTiles=17 | award=ColorBomb | boosters=HVDC | goals=Block1:28 | Block2:32 | Collectable:8 | Ice:12
+L91: 9x9 | limit=19 | score=11510/18416/27048 | collectChance=12 | seedCollect=6 | iceTiles=17 | award=ColorBomb | boosters=HVDC | goals=Block1:28 | Block2:32 | Collectable:8 | Ice:12
+L92: 9x9 | limit=19 | score=11675/18680/27436 | collectChance=12 | seedCollect=6 | iceTiles=17 | award=ColorBomb | boosters=HVDC | goals=Block1:28 | Block2:32 | Collectable:8 | Ice:12
+L93: 9x9 | limit=19 | score=11840/18944/27824 | collectChance=12 | seedCollect=6 | iceTiles=18 | award=ColorBomb | boosters=HVDC | goals=Block1:29 | Block2:33 | Collectable:8 | Ice:13
+L94: 9x9 | limit=19 | score=12005/19208/28211 | collectChance=12 | seedCollect=6 | iceTiles=18 | award=ColorBomb | boosters=HVDC | goals=Block1:29 | Block2:33 | Collectable:8 | Ice:13
+L95: 9x9 | limit=17 | score=12170/19472/28599 | collectChance=13 | seedCollect=6 | iceTiles=18 | award=ColorBomb | boosters=HVDC | goals=Block1:29 | Block2:33 | Collectable:8 | Ice:13
+L96: 9x9 | limit=17 | score=12335/19736/28987 | collectChance=13 | seedCollect=6 | iceTiles=18 | award=ColorBomb | boosters=HVDC | goals=Block1:29 | Block2:33 | Collectable:8 | Ice:13
+L97: 9x9 | limit=17 | score=12500/20000/29375 | collectChance=13 | seedCollect=6 | iceTiles=19 | award=ColorBomb | boosters=HVDC | goals=Block1:30 | Block2:34 | Collectable:8 | Ice:14
+L98: 9x9 | limit=17 | score=12665/20264/29762 | collectChance=13 | seedCollect=6 | iceTiles=19 | award=ColorBomb | boosters=HVDC | goals=Block1:30 | Block2:34 | Collectable:8 | Ice:14
+L99: 9x9 | limit=17 | score=12830/20528/30150 | collectChance=13 | seedCollect=6 | iceTiles=19 | award=ColorBomb | boosters=HVDC | goals=Block1:30 | Block2:34 | Collectable:8 | Ice:14
+L100: 9x9 | limit=18 | score=13000/20000/29000 | collectChance=10 | seedCollect=8 | iceTiles=25 | award=ColorBomb | boosters=HVDC | goals=Block1:28 | Block2:30 | Collectable:8 | Ice:26
