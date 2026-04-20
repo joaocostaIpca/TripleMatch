@@ -5865,7 +5865,7 @@ MonoBehaviour:
   horizontalSpacing: -0.02
   verticalSpacing: -0.02
   levelLocation: {fileID: 1267583098}
-  backgroundSprite: {fileID: 21300000, guid: fe016378016b8b1418fec9a971c22a4b, type: 3}
+  backgroundSprite: {fileID: -104706488170326585, guid: 02ed7ecc2015bce4fa3bfa0b5e73a770, type: 3}
   backgroundColor: {r: 0.11764706, g: 0.3019608, b: 0.43529412, a: 1}
   gameSounds:
   - {fileID: 8300000, guid: 3a71862446033cd41a3f7d4f687c2c01, type: 3}
