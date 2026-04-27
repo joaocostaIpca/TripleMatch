@@ -321,10 +321,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numLevel: 1
-  currentButtonSprite: {fileID: 21300000, guid: 3d78a31800c6347f59c2596d87e033ab,
+  currentButtonSprite: {fileID: 21300000, guid: fdbf8ef66485a45429809af6ba9d12a9,
     type: 3}
-  playedButtonSprite: {fileID: 21300000, guid: 8d3e24e13f8c343c99859f43f1bb1053, type: 3}
-  lockedButtonSprite: {fileID: 21300000, guid: fd1e0bd5eb5ee4fedb4b5e70abcecf90, type: 3}
+  playedButtonSprite: {fileID: 21300000, guid: 73b25cfafd7b1b34b8841602b024e774, type: 3}
+  lockedButtonSprite: {fileID: 21300000, guid: 1834e42fec6ee19488941b7aa15e88ab, type: 3}
   yellowStarSprite: {fileID: 21300000, guid: bc5d7f1a5453b4ae3a9d67a7c25ff702, type: 3}
   buttonImage: {fileID: 114485772383789840}
   numLevelText: {fileID: 114940765318655370}
@@ -434,8 +434,8 @@ RectTransform:
   m_GameObject: {fileID: 1680420766839554}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 224338178252114056}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -472,7 +472,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8d3e24e13f8c343c99859f43f1bb1053, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73b25cfafd7b1b34b8841602b024e774, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
