@@ -1,4 +1,4 @@
-﻿{
+{
     "id":  42,
     "width":  7,
     "height":  7,
@@ -270,9 +270,9 @@
                             "ColorBlock3",
                             "ColorBlock4"
                         ],
-    "score1":  3425,
-    "score2":  5480,
-    "score3":  8048,
+    "score1":  1403,
+    "score2":  2244,
+    "score3":  3297,
     "awardBoostersWithRemainingMoves":  true,
     "awardedBoosterType":  "HorizontalBomb",
     "collectableChance":  3,

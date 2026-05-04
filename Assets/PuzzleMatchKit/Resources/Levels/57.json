@@ -1,4 +1,4 @@
-﻿{
+{
     "id":  57,
     "width":  8,
     "height":  8,
@@ -356,9 +356,9 @@
                             "ColorBlock4",
                             "ColorBlock5"
                         ],
-    "score1":  5900,
-    "score2":  9440,
-    "score3":  13865,
+    "score1":  2417,
+    "score2":  3867,
+    "score3":  5679,
     "awardBoostersWithRemainingMoves":  true,
     "awardedBoosterType":  "VerticalBomb",
     "collectableChance":  6,

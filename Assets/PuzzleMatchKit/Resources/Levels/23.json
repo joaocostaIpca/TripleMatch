@@ -1,452 +1,451 @@
-﻿{
-    "id": 23,
-    "width": 9,
-    "height": 9,
-    "tiles": [
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        },
-        {
-            "type": "RandomBlock",
-            "blockerType": "None",
-            "$type": "MergeSweetPals.Game.Common.BlockTile"
-        }
-    ],
-    "limitType": "Time",
-    "limit": 60,
-    "goals": [
-        {
-            "blockType": "Block1",
-            "amount": 8,
-            "$type": "MergeSweetPals.Game.Common.CollectBlockGoal"
-        },
-        {
-            "blockType": "Block2",
-            "amount": 12,
-            "$type": "MergeSweetPals.Game.Common.CollectBlockGoal"
-        },
-        {
-            "blockType": "Block5",
-            "amount": 16,
-            "$type": "MergeSweetPals.Game.Common.CollectBlockGoal"
-        }
-    ],
-    "availableColors": [
-        "ColorBlock1",
-        "ColorBlock2",
-        "ColorBlock3",
-        "ColorBlock4",
-        "ColorBlock5",
-        "ColorBlock6"
-    ],
-    "score1": 800,
-    "score2": 1600,
-    "score3": 2400,
-    "awardBoostersWithRemainingMoves": false,
-    "awardedBoosterType": "HorizontalBomb",
-    "collectableChance": 0,
-    "availableBoosters": {
-        "HorizontalBomb": true,
-        "VerticalBomb": true,
-        "Dynamite": true,
-        "ColorBomb": true
-    }
+{
+    "id":  23,
+    "width":  9,
+    "height":  9,
+    "tiles":  [
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  },
+                  {
+                      "type":  "RandomBlock",
+                      "blockerType":  "None",
+                      "$type":  "MergeSweetPals.Game.Common.BlockTile"
+                  }
+              ],
+    "limitType":  "Time",
+    "limit":  60,
+    "goals":  [
+                  {
+                      "blockType":  "Block1",
+                      "amount":  8,
+                      "$type":  "MergeSweetPals.Game.Common.CollectBlockGoal"
+                  },
+                  {
+                      "blockType":  "Block2",
+                      "amount":  12,
+                      "$type":  "MergeSweetPals.Game.Common.CollectBlockGoal"
+                  },
+                  {
+                      "blockType":  "Block5",
+                      "amount":  16,
+                      "$type":  "MergeSweetPals.Game.Common.CollectBlockGoal"
+                  }
+              ],
+    "availableColors":  [
+                            "ColorBlock1",
+                            "ColorBlock2",
+                            "ColorBlock3",
+                            "ColorBlock4",
+                            "ColorBlock5",
+                            "ColorBlock6"
+                        ],
+    "score1":  308,
+    "score2":  615,
+    "score3":  923,
+    "awardBoostersWithRemainingMoves":  false,
+    "awardedBoosterType":  "HorizontalBomb",
+    "collectableChance":  0,
+    "availableBoosters":  {
+                              "HorizontalBomb":  true,
+                              "VerticalBomb":  true,
+                              "Dynamite":  true,
+                              "ColorBomb":  true
+                          }
 }
-

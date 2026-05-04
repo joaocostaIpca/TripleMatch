@@ -1,4 +1,4 @@
-﻿{
+{
     "id":  79,
     "width":  8,
     "height":  8,
@@ -356,9 +356,9 @@
                             "ColorBlock4",
                             "ColorBlock5"
                         ],
-    "score1":  9530,
-    "score2":  15248,
-    "score3":  22395,
+    "score1":  4151,
+    "score2":  6642,
+    "score3":  9755,
     "awardBoostersWithRemainingMoves":  true,
     "awardedBoosterType":  "Dynamite",
     "collectableChance":  10,

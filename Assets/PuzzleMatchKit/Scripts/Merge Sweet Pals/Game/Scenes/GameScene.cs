@@ -91,6 +91,8 @@ namespace MergeSweetPals.Game.Scenes
         private int generatedCollectables;
         private int neededCollectables;
 
+        private int comboCount = 0;
+
         private Camera mainCamera;
 
         [SerializeField]
@@ -278,6 +280,8 @@ namespace MergeSweetPals.Game.Scenes
         /// </summary>
         private void ApplyPenalty()
         {
+            // Reset combo on failed match
+            comboCount = 0;
             if (applyingPenalty || level.penalty <= 0)
             {
                 return;
@@ -453,12 +457,22 @@ namespace MergeSweetPals.Game.Scenes
         }
 
         /// <summary>
-        /// Updates the score of the current game.
+        /// Updates the score of the current game with level and combo multipliers.
         /// </summary>
         /// <param name="score">The score.</param>
         private void UpdateScore(int score)
         {
-            gameState.score += score;
+            // Apply level multiplier (increases every 20 levels)
+            float levelMult = gameConfig.GetLevelMultiplier(level.id);
+            
+            // Apply combo multiplier when matches occur
+            comboCount++;
+            float comboMult = gameConfig.GetComboMultiplier(comboCount);
+            
+            // Calculate final score with both multipliers
+            int finalScore = Mathf.RoundToInt(score * levelMult * comboMult);
+            
+            gameState.score += finalScore;
             gameUi.scoreText.text = gameState.score.ToString();
             gameUi.progressBar.UpdateProgressBar(gameState.score);
         }
@@ -474,6 +488,7 @@ namespace MergeSweetPals.Game.Scenes
 
             generatedCollectables = 0;
             neededCollectables = 0;
+            comboCount = 0;
             foreach (var goal in level.goals)
             {
                 if (goal is CollectBlockGoal)

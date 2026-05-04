@@ -192,6 +192,33 @@ namespace MergeSweetPals.Game.Common
         }
 
         /// <summary>
+        /// Returns the score multiplier based on the current level (increases every 20 levels).
+        /// </summary>
+        /// <param name="level">The current level number.</param>
+        /// <returns>The score multiplier for this level.</returns>
+        public float GetLevelMultiplier(int level)
+        {
+            // Increase multiplier by 0.1 every 20 levels
+            // Level 1-20: 1.0x, Level 21-40: 1.1x, Level 41-60: 1.2x, etc.
+            int multiplyerTier = (level - 1) / 20;
+            return 1.0f + (multiplyerTier * 0.1f);
+        }
+
+        /// <summary>
+        /// Returns the combo multiplier based on consecutive matches.
+        /// </summary>
+        /// <param name="comboCount">The number of consecutive matches.</param>
+        /// <returns>The combo multiplier.</returns>
+        public float GetComboMultiplier(int comboCount)
+        {
+            // Combo multiplier: 1 match = 1.0x, 2 matches = 1.2x, 3 = 1.4x, 4+ = 1.6x
+            if (comboCount <= 1) return 1.0f;
+            if (comboCount == 2) return 1.2f;
+            if (comboCount == 3) return 1.4f;
+            return 1.6f;
+        }
+
+        /// <summary>
         /// Returns the score of the specified blocker type.
         /// </summary>
         /// <param name="type">The blocker type.</param>

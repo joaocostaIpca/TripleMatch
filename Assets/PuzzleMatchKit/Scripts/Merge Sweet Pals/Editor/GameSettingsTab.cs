@@ -263,16 +263,18 @@ namespace MergeSweetPals.Editor
             EditorGUILayout.LabelField("Score", EditorStyles.boldLabel);
             GUILayout.BeginHorizontal(GUILayout.Width(300));
             const string helpText =
-                "The default score given to the player when a tile entity explodes. You can change this value for specific tile types in the override list.";
+                "The default score given to the player when a tile entity explodes. Bonus: Every 20 levels increases score by 10%. Combos give 1.0x to 1.6x multiplier.";
             EditorGUILayout.HelpBox(helpText, MessageType.Info);
             GUILayout.EndHorizontal();
 
             GUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField(new GUIContent("Default score", "The default score of tile entities."),
+            EditorGUILayout.LabelField(new GUIContent("Default score (Per Block)", "The default score of tile entities. Recommended: 50+"),
                 GUILayout.Width(EditorGUIUtility.labelWidth));
             gameConfig.defaultTileScore =
                 EditorGUILayout.IntField(gameConfig.defaultTileScore, GUILayout.Width(70));
             GUILayout.EndHorizontal();
+
+            EditorGUILayout.HelpBox("Level Multiplier: +10% every 20 levels (Lvl 1-20: 1.0x, 21-40: 1.1x, etc)\nCombo Multiplier: 1 match=1.0x, 2=1.2x, 3=1.4x, 4+=1.6x", MessageType.Warning);
 
             GUILayout.BeginHorizontal();
 
