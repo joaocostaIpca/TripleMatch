@@ -51,7 +51,7 @@
     "rewardedAdCoins": 150,
     "iapItems": [
         {
-            "storeId": "com.gamevanilla.puzzlematch.coinspack5",
+            "storeId": "com.Teletab.Sweet-Merge-Pals.coinspack5",
             "numCoins": 3600,
             "discount": 40,
             "mostPopular": false,
@@ -59,7 +59,7 @@
             "coinIcon": "VeryLarge"
         },
         {
-            "storeId": "com.gamevanilla.puzzlematch.coinspack4",
+            "storeId": "com.Teletab.Sweet-Merge-Pals.coinspack4",
             "numCoins": 1200,
             "discount": 20,
             "mostPopular": false,
@@ -67,7 +67,7 @@
             "coinIcon": "Large"
         },
         {
-            "storeId": "com.gamevanilla.puzzlematch.coinspack3",
+            "storeId": "com.Teletab.Sweet-Merge-Pals.coinspack3",
             "numCoins": 950,
             "discount": 15,
             "mostPopular": true,
@@ -75,7 +75,7 @@
             "coinIcon": "MediumLarge"
         },
         {
-            "storeId": "com.gamevanilla.puzzlematch.coinspack2",
+            "storeId": "com.Teletab.Sweet-Merge-Pals.coinspack2",
             "numCoins": 400,
             "discount": 5,
             "mostPopular": false,
@@ -83,7 +83,7 @@
             "coinIcon": "MediumSmall"
         },
         {
-            "storeId": "com.gamevanilla.puzzlematch.coinspack1",
+            "storeId": "com.Teletab.Sweet-Merge-Pals.coinspack1",
             "numCoins": 150,
             "discount": 0,
             "mostPopular": false,
