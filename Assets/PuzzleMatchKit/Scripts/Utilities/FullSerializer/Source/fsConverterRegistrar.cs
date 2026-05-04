@@ -44,13 +44,5 @@ namespace FullSerializer {
         }
 
         public static List<Type> Converters;
-
-        // Example field registration:
-        //public static AnimationCurve_DirectConverter Register_AnimationCurve_DirectConverter;
-
-        // Example method registration:
-        //public static void Register_AnimationCurve_DirectConverter() {
-        //    Converters.Add(typeof(AnimationCurve_DirectConverter));
-        //}
     }
 }
