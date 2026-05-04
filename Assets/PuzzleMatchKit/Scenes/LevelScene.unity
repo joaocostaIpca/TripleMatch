@@ -1217,7 +1217,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -69279958276128517, guid: 5d90be4e1062c1448a663b8c2741ea0d, type: 3}
+  m_Sprite: {fileID: 4555401950262906951, guid: 61b882ad7a0ce954fb790c1f0ab49266,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1367,7 +1368,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6050176436491465439, guid: 56b9fd9b47ca6d2429c5b1ba09a9b33c,
+  m_Sprite: {fileID: -4121869552049539054, guid: b034386c41bb69944a21c6455aa4091f,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -1576,7 +1577,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6092190667927849528, guid: 84465f0107d30084fafc0e0c21eef202,
+  m_Sprite: {fileID: -8849469253400935365, guid: 319c396710a0b744bbd91641a21036e9,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -3214,7 +3215,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 9196204129228854245, guid: 5f2f25593fedb60479ac81889c2d87a2,
+  m_Sprite: {fileID: 6373618344476610876, guid: 5db020ca5d140e0419728295fdc31793,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -8723,7 +8724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2015438185139672790, guid: ef2701999d5f0b342bc5b9dcea556c39,
+  m_Sprite: {fileID: 7937746552043390454, guid: 3ac118547cbb8a747a44eb4e90954cf6,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -9872,7 +9873,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3458060416101376797, guid: 3a1c8de465eab1f41a7537dae2a0d102,
+  m_Sprite: {fileID: -5708030847798611403, guid: 6d0001782ebc868419e974cfeaa11f93,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -13012,7 +13013,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2864665384559893103, guid: d0346724f3b7fc543a997692f391f19b,
+  m_Sprite: {fileID: 7766824788091945266, guid: 159ae243946a1ec4fba1c82a896cca5b,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
