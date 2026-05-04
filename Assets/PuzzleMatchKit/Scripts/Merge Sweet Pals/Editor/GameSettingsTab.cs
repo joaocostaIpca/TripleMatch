@@ -501,41 +501,37 @@ namespace MergeSweetPals.Editor
 		{
             var gameConfig = parentEditor.gameConfig;
 
-            EditorGUILayout.LabelField("Rewarded ad", EditorStyles.boldLabel);
+            EditorGUILayout.LabelField("Rewarded ad (LevelPlay)", EditorStyles.boldLabel);
             GUILayout.BeginHorizontal(GUILayout.Width(300));
             const string helpText =
-                "The settings for Unity Ads rewarded video.";
+                "The settings for LevelPlay Ads Mediation rewarded video. Get Ad Unit IDs from your LevelPlay Dashboard.";
             EditorGUILayout.HelpBox(helpText, MessageType.Info);
             GUILayout.EndHorizontal();
 
-            const int labelWidth = 190;
+            const int labelWidth = 250;
 
             GUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField(new GUIContent("Unity Ads Game ID - App Store", "The Unity Ads App Store game ID."),
+            EditorGUILayout.LabelField(new GUIContent("LevelPlay Rewarded Ad Unit ID - iOS", "Get this from LevelPlay Dashboard > Your App > Rewarded Ads."),
                 GUILayout.Width(labelWidth));
             gameConfig.adsGameIdIos =
                 EditorGUILayout.TextField(gameConfig.adsGameIdIos, GUILayout.Width(220));
             GUILayout.EndHorizontal();
 
             GUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField(new GUIContent("Unity Ads Game ID - Google Play", "The Unity Ads Google Play game ID."),
+            EditorGUILayout.LabelField(new GUIContent("LevelPlay Rewarded Ad Unit ID - Android", "Get this from LevelPlay Dashboard > Your App > Rewarded Ads."),
                 GUILayout.Width(labelWidth));
             gameConfig.adsGameIdAndroid =
                 EditorGUILayout.TextField(gameConfig.adsGameIdAndroid, GUILayout.Width(220));
             GUILayout.EndHorizontal();
 
             GUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField(new GUIContent("Unity Ads - Test Mode", "Indicates if using Unity Ads test mode."),
-                GUILayout.Width(labelWidth));
-            gameConfig.adsTestMode = EditorGUILayout.Toggle(gameConfig.adsTestMode);
-            GUILayout.EndHorizontal();
-
-            GUILayout.BeginHorizontal();
-            EditorGUILayout.LabelField(new GUIContent("Coins", "The number of coins awarded to the player after watching a rewarded ad."),
+            EditorGUILayout.LabelField(new GUIContent("Reward Coins", "The number of coins awarded to the player after watching a rewarded ad."),
                 GUILayout.Width(labelWidth));
             gameConfig.rewardedAdCoins =
                 EditorGUILayout.IntField(gameConfig.rewardedAdCoins, GUILayout.Width(70));
             GUILayout.EndHorizontal();
+
+            EditorGUILayout.HelpBox("To get Ad Unit IDs:\n1. Go to LevelPlay Dashboard\n2. Select your app\n3. Create Rewarded Ad Units for iOS and Android\n4. Copy the Ad Unit IDs and paste them above", MessageType.Warning);
 		}
 
         /// <summary>
